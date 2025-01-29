@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula do curso em vídeo!
 
- Essa linha foi adicionada diretamenteo no GITHUB.
+ Essa linha foi adicionada diretamente no GITHUB.
